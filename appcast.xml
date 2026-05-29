@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Kown 自动更新源。首次 CI 发布(git tag vX.Y.Z)后由 generate/update_appcast 自动追加 <item>。 -->
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Kown Updates</title>
+    <description>Kown 自动更新源</description>
+    <language>zh</language>
+    <!-- 暂无发布版本；首次 git tag 发布后填充 <item> -->
+  </channel>
+</rss>
