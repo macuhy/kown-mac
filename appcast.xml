@@ -1,10 +1,17 @@
-<?xml version="1.0" encoding="utf-8"?>
-<!-- Kown 自动更新源。首次 CI 发布(git tag vX.Y.Z)后由 generate/update_appcast 自动追加 <item>。 -->
-<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+<?xml version='1.0' encoding='utf-8'?>
+<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
   <channel>
     <title>Kown Updates</title>
     <description>Kown 自动更新源</description>
     <language>zh</language>
-    <!-- 暂无发布版本；首次 git tag 发布后填充 <item> -->
+    <item>
+      <title>0.4.5</title>
+      <pubDate>Fri, 29 May 2026 16:22:56 +0000</pubDate>
+      <sparkle:version>7</sparkle:version>
+      <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/macuhy/kown-mac/releases/tag/v0.4.5</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/macuhy/kown-mac/releases/download/v0.4.5/Kown.zip" length="4282234" type="application/octet-stream" sparkle:edSignature="ML+YZllEcxB4fVqgwjjfYgtctTY/TknKnYW2GB5edRRZ26yDpOvwuj9P5q+AGgUrm0OiI6/XOGrF1WgTZeAFBg==" sparkle:os="macos" />
+    </item>
   </channel>
 </rss>
