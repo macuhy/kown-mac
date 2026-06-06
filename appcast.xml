@@ -5,6 +5,15 @@
     <description>Kown 自动更新源</description>
     <language>zh</language>
     <item>
+      <title>0.16.1</title>
+      <pubDate>Sat, 06 Jun 2026 08:28:56 +0000</pubDate>
+      <sparkle:version>184</sparkle:version>
+      <sparkle:shortVersionString>0.16.1</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>12.0</sparkle:minimumSystemVersion>
+      <sparkle:releaseNotesLink>https://github.com/macuhy/kown-mac/releases/tag/v0.16.1</sparkle:releaseNotesLink>
+      <enclosure url="https://github.com/macuhy/kown-mac/releases/download/v0.16.1/Kown.zip" length="8404359" type="application/octet-stream" sparkle:edSignature="abb7Rafk4AKemsTn8kFx01HpVkDe316vypAg4CMnIJSqP85Jk0C7BhN206sUVlIGR9ghXVKOPZiox7cE0uS6BA==" sparkle:os="macos" />
+    </item>
+    <item>
       <title>0.16.0</title>
       <pubDate>Sat, 06 Jun 2026 08:10:07 +0000</pubDate>
       <sparkle:version>182</sparkle:version>
